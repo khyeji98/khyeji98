@@ -1,25 +1,25 @@
-[한국어](https://github.com/khyeji98/khyeji98/blob/main/README.ko.md) · [English](https://github.com/khyeji98/khyeji98/blob/main/README.md) · [日本語](https://github.com/khyeji98/khyeji98/blob/main/README.ja.md)
+[한국어](https://github.com/khyeji98/khyeji98/blob/main/README.md) · [English](https://github.com/khyeji98/khyeji98/blob/main/README.en.md) · [日本語](https://github.com/khyeji98/khyeji98/blob/main/README.ja.md)
 
-Hi, I'm Hyeji, an iOS developer 👋
+안녕하세요, iOS 개발자 김혜지입니다 👋
 
-I like working with usability in mind and building services through close collaboration with my teammates. I enjoy exchanging ideas and making decisions with colleagues across disciplines to help the services we build keep growing.
+사용성을 중심으로 고민하고, 동료들과 가까이 소통하며 서비스를 함께 만들어가는 일을 좋아합니다. 다양한 직군의 동료들과 의견을 나누고 필요한 결정을 함께 내리면서, 서비스를 꾸준히 성장시키고 싶습니다.
 
-I look for ways to reduce repetitive tasks and improve development workflows so the team can work more productively and efficiently.
+반복되는 일을 줄이고 개발 흐름을 다듬어, 팀이 더 생산적이고 효율적으로 일할 수 있는 방법을 고민합니다.
 
-## Experience
+## 경력
 
-**Banksalad · iOS Developer**  
-Oct 2026–Present
+**뱅크샐러드 · iOS 개발자**  
+2026.10–현재
 
-**Plus Company · iOS Developer**  
-Jan 2024–May 2025
+**덧셈컴퍼니 · iOS 개발자**  
+2024.01–2025.05
 
-- Designed the iOS architecture and independently developed and maintained **Deotssem**, a tax-refund app
-- Led mobile development
-- Collaborated with colleagues across disciplines on service direction and implementation decisions
+- 세금환급 서비스 **덧셈**의 iOS 앱 아키텍처 설계·단독 개발·운영
+- 모바일 개발 리딩
+- 다양한 직군의 동료들과 서비스 방향과 구현에 관한 논의 및 의사결정
 
-**Kakao VX · iOS Developer**  
-Jul 2021–Oct 2023
+**카카오VX · iOS 개발자**  
+2021.07–2023.10
 
-- Contributed to the revamp of **Tranggle**, a GPS-based outdoor app
-- Developed and enhanced iOS features for **Smart Home Training**, a home-fitness app
+- GPS 기반 아웃도어 앱 **트랭글** 개편 참여
+- 홈트레이닝 앱 **스마트홈트** iOS 기능 개발·고도화

@@ -1,4 +1,4 @@
-[한국어](https://github.com/khyeji98/khyeji98/blob/main/README.ko.md) · [English](https://github.com/khyeji98/khyeji98/blob/main/README.md) · [日本語](https://github.com/khyeji98/khyeji98/blob/main/README.ja.md)
+[한국어](https://github.com/khyeji98/khyeji98/blob/main/README.md) · [English](https://github.com/khyeji98/khyeji98/blob/main/README.en.md) · [日本語](https://github.com/khyeji98/khyeji98/blob/main/README.ja.md)
 
 はじめまして、iOSエンジニアのキム・ヘジです 👋
 
